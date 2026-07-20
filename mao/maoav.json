@@ -2,12 +2,12 @@
  
   "sites": [
     {"key": "cmjh",
- "name": "✈️关注裤佬TG频道@stymei",
+ "name": "✈️18了没？",
  "type": 1,
  "api": "https://19q.cc/api.php/provide/vod",
  "searchable": 1,
  "quickSearch": 1,
- "categories": ["✈️TG频道@stymei1"]},
+ "categories": ["✈️出去吧！"]},
 
     {"key": "ynzy",
  "name": "🔞越南",
@@ -42,7 +42,9 @@
  "type": 1,
  "api": "https://apidanaizi.com/api.php/provide/vod",
  "searchable": 1,
- "quickSearch": 1},
+ "quickSearch": ,
+  "parse": "红牛资源"
+    },
 
     {"key": "ddzy",
  "name": "🔞滴滴",
@@ -377,9 +379,9 @@
 "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
 },
 {
-"name": "麻花视频",
+"name": "红牛资源",
 "type": 1,
-"url": "https://humaosp.com/json.php?url="
+"url": "https://www.hnjiexi.com/m3u8/?url="
 },
 {
 "name": "黄河",
