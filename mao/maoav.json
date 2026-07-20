@@ -42,7 +42,7 @@
  "type": 1,
  "api": "https://apidanaizi.com/api.php/provide/vod",
  "searchable": 1,
- "quickSearch": ,
+ "quickSearch": 1,
   "parse": "红牛资源"
     },
 
