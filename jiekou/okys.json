@@ -136,23 +136,25 @@
 
 },
 
-{
 
-  "key": "china_live_aggregate",
 
-  "name": "🇨🇳 国内聚合直播",
+    {
 
-  "type": 4,
+      "key": "直播转点播",
 
-  "api": "https://qptxxzb.pages.dev/",
+      "name": "🐼️电视┃[直播]",
 
-  "searchable": 0,
+      "type": 3,
 
-  "quickSearch": 0,
+      "searchable": 0,
 
-  "filterable": 0
+      "api": "https://dh.351148.xyz/live2vod.js",
 
-  },
+      "ext": "https://dh.351148.xyz/js/feimaolive.json"
+
+    },
+
+
 
     {
 
@@ -1420,7 +1422,91 @@
 
       
 
-    }
+    },
+
+	{
+
+  "key": "戏曲多多",
+
+  "name": "戏曲👖多多",
+
+  "type": 3,
+
+  "api": "csp_AppLY",
+
+  "style": {
+
+    "type": "list"
+
+  },
+
+  "jar": "https://dh.351148.xyz/jsontv/tvbox//07201730.png"
+
+},
+
+{
+
+  "key": "配置中心",
+
+  "name": "配置 • 中心",
+
+  "type": 3,
+
+  "api": "csp_Config",
+
+  "searchable": 0,
+
+  "changeable": 0,
+
+  "indexs": 0,
+
+  "style": {
+
+    "type": "rect",
+
+    "ratio": 1.597
+
+  },
+
+  "jar": "https://dh.351148.xyz/jsontv/tvbox//07201730.png"
+
+},
+
+{
+
+  "key": "哔哩哔哩戏曲",
+
+  "name": "哔哩 • 戏曲",
+
+  "type": 3,
+
+  "api": "csp_Bili",
+
+  "searchable": 0,
+
+  "quickSearch": 0,
+
+  "filterable": 0,
+
+  "ext": {
+
+    "json": "https://dh.351148.xyz/jsontv/BLXQ.json",
+
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+
+  },
+
+  "style": {
+
+    "type": "rect",
+
+    "ratio": 1.597
+
+  },
+
+  "jar": "https://dh.351148.xyz/jsontv/tvbox//07201730.png"
+
+}
 
  ],
 
