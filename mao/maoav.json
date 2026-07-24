@@ -43,7 +43,13 @@
  "api": "https://apidanaizi.com/api.php/provide/vod",
  "searchable": 1,
  "quickSearch": 1,
-  "parse": "红牛资源"
+  "parse": "红牛资源",
+     "exclude_categories": [
+"视频一区",
+"视频二区",
+"视频三区",
+"视频四区"
+    ]
     },
 
     {"key": "ddzy",
